@@ -54,3 +54,7 @@ public class GoogleSearch {
 `https://sites.google.com/a/chromium.org/chromedriver/downloads`
 
 6. Tworzymy w main folder `src\main\resources\drivers` i tam dodajemy pobrany sterownik
+7. Następnie należy dodać sterownik do kodu naszego skryptu GoogleSearch (Zaraz pod main).
+
+`System.setProperty("webdriver.chrome.driver",
+   "src/main/resources/drivers/chromedriver");` Na windows dodajemy .exe
