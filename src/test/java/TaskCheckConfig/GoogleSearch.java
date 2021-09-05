@@ -11,9 +11,12 @@ public class GoogleSearch {
 
     public static void main(String[] args) {
 
+        System.setProperty("webdriver.chrome.driver",
+                "src/main/resources/drivers/chromedriver");
+
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
-        driver.get("http://www.google.com");
+        driver.get("https://www.google.com");
         WebElement element = driver.findElement(By.name("q"));
         element.clear();
         element.sendKeys("Coderslab");
