@@ -58,3 +58,9 @@ public class GoogleSearch {
 
 `System.setProperty("webdriver.chrome.driver",
    "src/main/resources/drivers/chromedriver");` Na windows dodajemy .exe
+
+##KONFIGURACJA STEROWNIKA INNYCH PRZEGLADAREK
+
+Pełna lista dostępnych przeglądarek i odpowiadających im sterowników: 
+`https://www.selenium.dev/documentation/en/getting_started_with_webdriver/browsers/`
+
