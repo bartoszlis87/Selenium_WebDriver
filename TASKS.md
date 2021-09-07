@@ -40,5 +40,24 @@ Hotel Location - Lublin
 Enter your e-mail - test@test.com
 Użyj metody sendKeys
 
+##Task05
+
+Wyszukaj elementy za pomocą lokalizatora by.name
+Na stronie https://qloapps.coderslab.pl/en/ zidentyfikuj następująca pola/przyciski za pomocą lokalizatora by.id:
+
+
+(pole tekstowe) Hotel Location
+(przycisk) Search Now
+(pole tekstowe) Enter your e-mail (pole na dole stron)
+(przycisk) Subscribe
+Po zidentyfikowaniu elementów wpisz następujące wartości w pola tekstowe:
+
+Hotel Location - Warsaw
+Enter your e-mail - test@test.com
+Dodatkowo kliknij przycisk Serach Now, używając metody Submit
+
+
+
+
 
 
