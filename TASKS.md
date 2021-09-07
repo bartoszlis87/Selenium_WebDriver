@@ -16,11 +16,29 @@ https://qloapps.coderslab.pl/en/
 
 Przygotuj następującą sekwencję poruszania się po stronach z wykorzystaniem powyższych metod:
 
-Wejdź na stronę: https://www.google.com
-Wejdź na stronę: https://coderslab.pl/pl
-Cofnij się do strony: https://www.google.com
-Wejdź na stronę: https://prod-kurs.coderslab.pl/index.php
-Cofnij się do strony: https://www.google.com
-Powróć do strony: https://prod-kurs.coderslab.pl/index.php
-Odśwież stronę: https://prod-kurs.coderslab.pl/index.php
+1. Wejdź na stronę: https://www.google.com
+2. Wejdź na stronę: https://coderslab.pl/pl
+3. Cofnij się do strony: https://www.google.com
+4. Wejdź na stronę: https://prod-kurs.coderslab.pl/index.php
+5. Cofnij się do strony: https://www.google.com
+6. Powróć do strony: https://prod-kurs.coderslab.pl/index.php
+7. Odśwież stronę: https://prod-kurs.coderslab.pl/index.php
+
+##Task04
+
+Zadanie 1 - By.id
+Wyszukaj elementy za pomocą lokalizatora by.id
+Wyszukaj elementy za pomocą lokalizatora by.id
+Na stronie https://qloapps.coderslab.pl/en/ zidentyfikuj następująca pola/przyciski za pomocą lokalizatora by.id:
+
+(pole tekstowe) Hotel Location
+(przycisk) Search Now
+(pole tekstowe) Enter your e-mail (pole na dole stron)
+Po zidentyfikowaniu elementów wpisz następujące wartości w pola tekstowe:
+
+Hotel Location - Lublin
+Enter your e-mail - test@test.com
+Użyj metody sendKeys
+
+
 
