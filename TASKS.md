@@ -57,7 +57,17 @@ Enter your e-mail - test@test.com
 Dodatkowo kliknij przycisk Serach Now, używając metody Submit
 
 
+##Task06
 
+Wyszukaj elementy za pomocą lokalizatora by.className
+Na stronie https://qloapps.coderslab.pl/en/ zidentyfikuj następująca pola/przyciski za pomocą lokalizatora by.id:
+
+
+(przycisk) Sign In
+(pole tekstowe) Email address
+Po zidentyfikowaniu elementów kliknij przycisk Sign In i wpisz dowolny adres e-mail w pole Email address.
+
+Rozpocznij tworzenie nowego użytkownika za pomocą kliknięcia przycisku Create an account (nie musi być z wykorzystaniem lokalizatora by.className)
 
 
 
