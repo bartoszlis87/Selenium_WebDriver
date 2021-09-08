@@ -69,5 +69,15 @@ Po zidentyfikowaniu elementów kliknij przycisk Sign In i wpisz dowolny adres e-
 
 Rozpocznij tworzenie nowego użytkownika za pomocą kliknięcia przycisku Create an account (nie musi być z wykorzystaniem lokalizatora by.className)
 
+##Task07
+
+Wyszukaj elementy za pomocą lokalizatora by.xpath
+Będą na stronie rejestracji nowego użytkownika (patrz zadanie 3), wyszukaj za pomocą lokalizatorów xpath wszystkie wymagane pola tekstowe oraz wypełnij je dowolnymi danymi:
+
+First Name
+Last Name
+Email
+Password
+Kliknij przycisk Register, który również wyszukaj przy pomocy lokalizatora by.xpath.
 
 
