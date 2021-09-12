@@ -80,4 +80,11 @@ Email
 Password
 Kliknij przycisk Register, który również wyszukaj przy pomocy lokalizatora by.xpath.
 
+##Task08
+
+Wyszukaj elementy za pomocą lokalizatora by.cssSelector
+Po utworzeniu konta na stronie https://qloapps.coderslab.pl/en zidentyfikuj następujące pola korzystając z lokalizatora by.cssSelector:
+
+MY PERSONAL INFORMATION
+MY ADDRESSES
 
