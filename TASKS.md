@@ -98,3 +98,13 @@ Last Name
 Email
 Password
 Potwierdź rejestrację nowego użytkownika (wcześniej sprawdzając, czy przycisk jest widoczny).
+
+##Task10
+
+Na stronie https://prod-kurs.coderslab.pl/index.php wykonaj następującą sekwencję kroków:
+
+Wejdź na stronę główną.
+Przejdź do opcji 'Sign in'
+Wybierz opcję 'No account? Create on here'
+Za pomocą metod nawigacyjnych przejdź do strony głównej.
+
