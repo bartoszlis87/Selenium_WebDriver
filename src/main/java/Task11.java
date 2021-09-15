@@ -17,6 +17,12 @@ public class Task11 {
         WebDriver driver = new FirefoxDriver();
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);//sposób na timout
+        driverGetAdress(driver);
+
+
+    }
+
+    static void driverGetAdress(WebDriver driver) {
         driver.get("https://www.google.com");
         WebElement button = driver.findElement(By.id("L2AGLb"));
         button.click();
@@ -24,9 +30,6 @@ public class Task11 {
         element.clear();
         element.sendKeys("Najlesze miejsca w Lublinie");
         element.submit();
-
-        driver.quit();
-
     }
 
 }
