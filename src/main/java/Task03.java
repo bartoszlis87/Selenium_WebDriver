@@ -29,7 +29,5 @@ public class Task03 {
         driver.quit();
 
 
-        driver.quit();
-
     }
 }
