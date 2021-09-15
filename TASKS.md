@@ -108,3 +108,8 @@ Przejdź do opcji 'Sign in'
 Wybierz opcję 'No account? Create on here'
 Za pomocą metod nawigacyjnych przejdź do strony głównej.
 
+##Task 11
+
+Inna przeglądrka
+Ściągnij inny sterownik przeglądarki i spróbuj uruchomić dowolny test na innej przeglądarce.
+Dodaj timeout i sprawdź wyjątek NoSuchElementException jeśli dany element nie zostanie znaleziony
